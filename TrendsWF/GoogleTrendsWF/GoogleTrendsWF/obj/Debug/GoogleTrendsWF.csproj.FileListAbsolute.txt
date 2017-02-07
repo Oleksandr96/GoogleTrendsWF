@@ -1,0 +1,14 @@
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\GoogleTrendsWF.exe.config
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\obj\Debug\GoogleTrendsWF.csprojResolveAssemblyReference.cache
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\obj\Debug\GoogleTrendsWF.Form1.resources
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\obj\Debug\GoogleTrendsWF.Properties.Resources.resources
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\obj\Debug\GoogleTrendsWF.csproj.GenerateResource.Cache
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\GoogleTrendsWF.exe
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\GoogleTrendsWF.pdb
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\MetroFramework.Design.dll
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\MetroFramework.dll
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\MetroFramework.Fonts.dll
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\obj\Debug\GoogleTrendsWF.exe
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\obj\Debug\GoogleTrendsWF.pdb
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\Newtonsoft.Json.dll
+D:\projects\TrendsWF\GoogleTrendsWF\GoogleTrendsWF\bin\Debug\Newtonsoft.Json.xml
